@@ -8,5 +8,7 @@ This repository contains various projects using Langchain, including:
 
 **Chatbot:** A chatbot application built with Langchain for natural language interactions.
 
+**Multi-User-chat-Handling:** This code help you to handle multiple user at same time and store chat history with session id. 
+
 # Installation
 **Prerequisites** Python 3.8+
