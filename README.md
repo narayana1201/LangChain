@@ -12,3 +12,6 @@ This repository contains various projects using Langchain, including:
 
 # Installation
 **Prerequisites** Python 3.8+
+
+
+**For Queries:** narayananhm123@gmail.com
